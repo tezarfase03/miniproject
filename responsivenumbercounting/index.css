@@ -1,0 +1,20 @@
+#Green {
+  background-color: green;
+}
+
+#Red {
+  background-color: Red;
+}
+
+#Yellow {
+  background-color: yellow;
+}
+
+
+button {
+  border-radius: 5px;
+  width: 100px;
+  height: 40px;
+  margin: 5px;
+  box-shadow: inset 5px 5px 10px rgba(0, 0, 0, 0.5);
+}
